@@ -1,0 +1,1611 @@
+{
+  'regionCode': 'TW',
+  'items': [{
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/brSnFatU54c/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/brSnFatU54c/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/brSnFatU54c/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-07-03T00:43:47.000Z',
+      'title': '日本女特工大戰中國女特工.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WRBRg2Ok2vKa2OAveaBN4qVtMJU"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'brSnFatU54c'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/16F3SyF_dug/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/16F3SyF_dug/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/16F3SyF_dug/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-07-02T04:25:57.000Z',
+      'title': '女孩看快遞小哥的眼神, 心動了.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/1FsYsaCX8a3uizewJw9UOeVeVKc"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '16F3SyF_dug'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/LWuzpoqlwKo/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/LWuzpoqlwKo/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/LWuzpoqlwKo/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-30T09:31:21.000Z',
+      'title': '快遞小哥的經歷.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/qO9TswPkpDBRz-iAPEfQwdI8Ju4"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'LWuzpoqlwKo'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/sZh6Hiicoo8/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/sZh6Hiicoo8/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/sZh6Hiicoo8/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-30T00:10:17.000Z',
+      'title': '看見大款就直接投懷送抱, 找一張長期飯票.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/YT_LrvtfAdKzZh6jyN4hnX4o0Gk"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'sZh6Hiicoo8'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/dtrAEquNsHE/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/dtrAEquNsHE/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/dtrAEquNsHE/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '地狱·天堂1989 马龙生性残暴，他在虐死妻子之后，借酒施暴女儿花儿致其怀孕，后纵火欲与花儿同归于尽，幸而被路遇的医生文清相救，警方介入调...',
+      'publishedAt': '2018-06-28T05:50:31.000Z',
+      'title': '八十年代比現在還開放, 這劇情現在可能都通不過審查 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/qjs37uNa5bElwa36uy_jZ5eSORI"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'dtrAEquNsHE'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/4xZm3La3X2o/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/4xZm3La3X2o/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/4xZm3La3X2o/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-27T05:39:10.000Z',
+      'title': '那個狐狸精有什麼好 ?',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/iXpajOAp5Ra3y2covuyu4n_knOY"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '4xZm3La3X2o'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/X6hjiJzIJBo/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/X6hjiJzIJBo/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/X6hjiJzIJBo/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-26T09:54:15.000Z',
+      'title': '陳佳 Kei   《大鱼》',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Rr6Z3asQ5Rms2PaoIQp88vdL9dk"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'X6hjiJzIJBo'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/tPA_1H1tYGs/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/tPA_1H1tYGs/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/tPA_1H1tYGs/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-26T02:20:11.000Z',
+      'title': '女秘書的誤會.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/bp0aSm92WrZzaQvGrRiXrG3z1FE"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'tPA_1H1tYGs'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/AwzHD96-CFo/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/AwzHD96-CFo/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/AwzHD96-CFo/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-25T08:46:16.000Z',
+      'title': '想給人看 , 看到了又生氣 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/QVkeXOQxcIqrPFaq1C1iq3isyuM"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'AwzHD96-CFo'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/D_pJASUxmRU/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/D_pJASUxmRU/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/D_pJASUxmRU/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-24T00:21:44.000Z',
+      'title': '老板問女秘書: 想不想加薪水?',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/QnzD4TuU8n-QKCkf5f9EZDUHCJw"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'D_pJASUxmRU'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/KvPTEoEXQ7I/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/KvPTEoEXQ7I/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/KvPTEoEXQ7I/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-23T00:15:36.000Z',
+      'title': '當他的腰受傷時, 她卻說要以身報恩.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/efyGxhohNyohG87l6fwOqtxQ2LE"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'KvPTEoEXQ7I'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/aCyRFmuXy2o/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/aCyRFmuXy2o/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/aCyRFmuXy2o/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-22T00:23:55.000Z',
+      'title': '不知你想讓嬸娘怎麼關心你 ?',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/B5VlujG-B8l1_NB5MSDAL5xDhi0"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'aCyRFmuXy2o'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/qjKxdSXy-Hc/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/qjKxdSXy-Hc/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/qjKxdSXy-Hc/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-19T10:32:39.000Z',
+      'title': '陳佳  -《美酒加咖啡》',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Q1ss2AAnHSMtQedJspakKwoKnVU"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'qjKxdSXy-Hc'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/dQ1SdPaCxHY/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/dQ1SdPaCxHY/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/dQ1SdPaCxHY/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-18T02:10:37.000Z',
+      'title': '我不讓你負任何責任 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/-v0oLcrbPIKhLPgxq7Mko50B378"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'dQ1SdPaCxHY'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/y8zTf69mF2g/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/y8zTf69mF2g/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/y8zTf69mF2g/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-17T05:06:11.000Z',
+      'title': '生活太悶, 被吃豆腐，她不僅沒拒絕，甚至最后微微一笑.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/9pK8gmTyF5WxKuxCtIwCLF_YJw0"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'y8zTf69mF2g'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/jpaJ3QC3nvI/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/jpaJ3QC3nvI/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/jpaJ3QC3nvI/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-17T00:26:44.000Z',
+      'title': '發現老婆和別的男人在一起 , 她卻說在開會.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WJxXOebKMMBXDI5JzhJUa-E5Uo8"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'jpaJ3QC3nvI'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/6X-6sIJyYrI/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/6X-6sIJyYrI/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/6X-6sIJyYrI/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-16T02:21:29.000Z',
+      'title': '嬸嬸灌醉侄兒做了不要臉的事 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/lBm3DjQWAujcMLvfkc714PENcnw"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '6X-6sIJyYrI'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/r1uUknT5nwY/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/r1uUknT5nwY/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/r1uUknT5nwY/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-15T11:53:14.000Z',
+      'title': '嬸嬸居然做這種事 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/oYCfzzIucS5mU7lrPZ8l4s_aH1k"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'r1uUknT5nwY'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/urJnrdHzdD8/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/urJnrdHzdD8/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/urJnrdHzdD8/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-15T00:23:51.000Z',
+      'title': '未婚妻對好友一見鐘情, 被撩走了.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/lNrpiBNG1PEY9HOK4Kwu_Z9ocMQ"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'urJnrdHzdD8'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/kN3z4mbzHMo/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/kN3z4mbzHMo/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/kN3z4mbzHMo/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-13T11:49:59.000Z',
+      'title': '女兒這麼大了, 父親還做這種事 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/BfdLC57_mOYNwnMQihOkNu9oFKE"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'kN3z4mbzHMo'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/ukBtJFT78xA/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/ukBtJFT78xA/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/ukBtJFT78xA/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-13T00:33:59.000Z',
+      'title': '他愛她又害她, 最后她決定讓他先樂后悲.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/X5MbW7Uh--iLDa1r0g7tq6IPKB8"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'ukBtJFT78xA'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/1YsrW7_2fkU/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/1YsrW7_2fkU/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/1YsrW7_2fkU/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-12T04:10:14.000Z',
+      'title': '買一雙鞋子還要提心吊膽.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/qSNrIQ6KPDYN-PQhslxaYYKWAxE"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '1YsrW7_2fkU'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/tqoAZf-ch30/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/tqoAZf-ch30/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/tqoAZf-ch30/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-10T08:59:41.000Z',
+      'title': '我一定要讓你對我有感覺 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/sKSPDdhYjozCHPFVKchiq67oBXU"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'tqoAZf-ch30'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/S1PHEFe7HzY/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/S1PHEFe7HzY/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/S1PHEFe7HzY/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-10T05:06:34.000Z',
+      'title': '請閨蜜跟自己同住 , 居然是引狼入室.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/3Bk9TNkr8RkWXZLkI4rDWiganpA"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'S1PHEFe7HzY'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/83lhdyGicdI/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/83lhdyGicdI/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/83lhdyGicdI/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-09T00:07:17.000Z',
+      'title': '激戰快要開始了, 還問她是不是黃花閨女!',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vAWzMaVT1id2aYyawXmiVjGjqsA"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '83lhdyGicdI'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/G3Gu_CrnPLw/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/G3Gu_CrnPLw/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/G3Gu_CrnPLw/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-08T03:15:40.000Z',
+      'title': '在妻子遺體旁邊, 他還有興趣做這種事.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/1cj0sBhHPN-RpmL9z1kTSUfQF9I"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'G3Gu_CrnPLw'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/LtF2wb_7GqY/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/LtF2wb_7GqY/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/LtF2wb_7GqY/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-06T01:14:23.000Z',
+      'title': '重要時刻 , 大嫂回來了!',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/9-QQtDFmSL-cnnGm1cgkUWQaGQ8"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'LtF2wb_7GqY'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/NG1w2dDJM54/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/NG1w2dDJM54/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/NG1w2dDJM54/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-05T02:46:00.000Z',
+      'title': '在妹妹面前姐姐和父親是父女關系，關上門后就變了.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/YpqilMRsO2R2mdkwzuU1aJ06kOE"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'NG1w2dDJM54'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/8un_q1Sef08/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/8un_q1Sef08/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/8un_q1Sef08/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-04T04:35:41.000Z',
+      'title': '誤闖老師實驗室, 這次慘了!',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/U1npVffmHYNqG8pu97PIsnew-Sw"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '8un_q1Sef08'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/NlVOZKXT-eU/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/NlVOZKXT-eU/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/NlVOZKXT-eU/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-03T05:25:27.000Z',
+      'title': '狐狸沒成精, 只因騷的輕.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/W3ApEXABhEPxgjcfftKCiUtBado"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'NlVOZKXT-eU'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/U583hggwlGU/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/U583hggwlGU/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/U583hggwlGU/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-02T09:03:13.000Z',
+      'title': '弟弟冒充哥哥，嫂子竟然認不出來，結果后悔也來不及了！',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ufwOnyFeD64yuA61JvMQYKAd-4o"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'U583hggwlGU'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/0DyAU0eTCBQ/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/0DyAU0eTCBQ/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/0DyAU0eTCBQ/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-06-01T08:43:11.000Z',
+      'title': '最喜歡的鄰居阿姨, 居然跟父親有一腿, 真是晴天霹靂!',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/k3dEj3uMETUhyhiZgzxAEFOdbIg"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '0DyAU0eTCBQ'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/0o-Wgydzeio/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/0o-Wgydzeio/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/0o-Wgydzeio/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-31T05:22:58.000Z',
+      'title': '妻子驚喜懷孕 ,丈夫肚子疼去醫院檢查卻發現自己不育 , 頓時如五雷轟頂 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/NXg5fRQPfTfDQIcKEDxmzlEIviU"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '0o-Wgydzeio'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/bKKlgVRNtAY/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/bKKlgVRNtAY/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/bKKlgVRNtAY/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-30T04:54:08.000Z',
+      'title': '男扮女裝, 还遇到这种事 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/KvRy3Bmu7KjwKUaVNPK29AnXuwo"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'bKKlgVRNtAY'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/C-LPSbXOnOU/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/C-LPSbXOnOU/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/C-LPSbXOnOU/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-29T05:45:41.000Z',
+      'title': '妻子的秘密被人發現了 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/j_Q1oxdyNJVRTPruu0BITK3RGZo"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'C-LPSbXOnOU'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/1Wr-oqmNLEY/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/1Wr-oqmNLEY/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/1Wr-oqmNLEY/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-28T00:30:23.000Z',
+      'title': '唱給老師聽的歌   - ＜驀然回首＞',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/oZts4DoEqoxOZxjx_hipPbv0_oE"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '1Wr-oqmNLEY'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/9Q_mNsk6tiE/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/9Q_mNsk6tiE/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/9Q_mNsk6tiE/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-27T04:54:42.000Z',
+      'title': '为了四十万,  她答应替胖子生儿子.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dSCQILR_l1Fmq94TtU8gWw3_Sfc"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '9Q_mNsk6tiE'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/9FEZBqYcPTk/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/9FEZBqYcPTk/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/9FEZBqYcPTk/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-26T11:54:48.000Z',
+      'title': '她害羞的說  : 有的事情還是需要女朋友幫你的 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jH-6Em9GHUlG-ilREwo3ZhGmkQ0"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '9FEZBqYcPTk'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/3zaZc7Vn5NM/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/3zaZc7Vn5NM/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/3zaZc7Vn5NM/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-26T09:50:34.000Z',
+      'title': '男孩深夜醒來，撞見媽媽和叔叔的一幕.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/N2O9z-6zlYwHsT52NZEAiofDYfs"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '3zaZc7Vn5NM'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/cBJ-L4TodoY/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/cBJ-L4TodoY/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/cBJ-L4TodoY/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-26T08:44:28.000Z',
+      'title': '大哥, 你要洗頭 ?',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/2NMSTrk5bGeuI0bV0tIrCWwfPn4"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'cBJ-L4TodoY'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/fW3_O1sNeS4/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/fW3_O1sNeS4/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/fW3_O1sNeS4/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-25T02:27:31.000Z',
+      'title': '姐姐為了替妹妹報仇, 居然做出這種事 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rD3NlPdjDPwoUOhB9H-WjR2T-x8"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'fW3_O1sNeS4'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/JnQDZ73c8Qo/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/JnQDZ73c8Qo/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/JnQDZ73c8Qo/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-25T00:51:01.000Z',
+      'title': '小妹妺沒有防人之心, 上了陌生人的車,結果悲劇了.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/08ifd_liHTJ0zFcz-DRasOqcb4M"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'JnQDZ73c8Qo'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/vshplNSn0aY/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/vshplNSn0aY/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/vshplNSn0aY/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-23T08:34:28.000Z',
+      'title': '再讓你回味一下我的味道.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/k-W9jhqnWpgDkoh6k0_bJxdQKAA"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'vshplNSn0aY'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/-jgSskQs6Gc/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/-jgSskQs6Gc/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/-jgSskQs6Gc/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-23T01:00:02.000Z',
+      'title': '太猛, 差一點 hold 不住 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/PH6faQayKj2kthAGRHFlxrm8vQA"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': '-jgSskQs6Gc'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/yrp3Cy8Qpc8/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/yrp3Cy8Qpc8/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/yrp3Cy8Qpc8/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-22T11:40:47.000Z',
+      'title': '殘疾師父叫妻子一定要跟徒弟有一腿  ,不然沒人幫他.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/a6gUQQYiZU0l8YprD7Pdmpdeuyg"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'yrp3Cy8Qpc8'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/iBkpW2K5XIU/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/iBkpW2K5XIU/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/iBkpW2K5XIU/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-21T04:41:00.000Z',
+      'title': '原來等一下要上的菜是自己的妹妹 !',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/q4OkY8wXsdd_ifMERgD4zBduzRM"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'iBkpW2K5XIU'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/ZjD-KJcLF6k/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/ZjD-KJcLF6k/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/ZjD-KJcLF6k/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-20T11:46:25.000Z',
+      'title': '一部關於胸的微電影',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/qh4S8WdmhkK0le9ECb7OvjddlWg"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'ZjD-KJcLF6k'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/Ewgi8uO75f0/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/Ewgi8uO75f0/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/Ewgi8uO75f0/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-20T03:59:11.000Z',
+      'title': '為了錢, 小伙還是向富婆低頭了.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/gegY5nUPX8eADKSDadsu-9N_G8o"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'Ewgi8uO75f0'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/y67lNLl5yFo/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/y67lNLl5yFo/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/y67lNLl5yFo/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-19T02:52:40.000Z',
+      'title': '半夜老板娘叫他拿一條毛巾.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HRZJu25kOq9XiEEGoHIuWkZBMN8"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'y67lNLl5yFo'
+    }
+  }, {
+    'snippet': {
+      'liveBroadcastContent': 'none',
+      'thumbnails': {
+        'default': {
+          'url': 'https://i.ytimg.com/vi/kLwb4XQE8Ts/default.jpg',
+          'width': 120,
+          'height': 90
+        },
+        'medium': {
+          'url': 'https://i.ytimg.com/vi/kLwb4XQE8Ts/mqdefault.jpg',
+          'width': 320,
+          'height': 180
+        },
+        'high': {
+          'url': 'https://i.ytimg.com/vi/kLwb4XQE8Ts/hqdefault.jpg',
+          'width': 480,
+          'height': 360
+        }
+      },
+      'description': '',
+      'publishedAt': '2018-05-18T12:32:36.000Z',
+      'title': '冥婚的女人如此的美, 小叔和公公那會放過她.',
+      'channelTitle': '小花视频',
+      'channelId': 'UCgwNNmtQkRRrSgdTg-zSJoA'
+    },
+    'kind': 'youtube#searchResult',
+    'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/FN3xtSDG0tAFYNnP0YERdQ5zAlE"',
+    'id': {
+      'kind': 'youtube#video',
+      'videoId': 'kLwb4XQE8Ts'
+    }
+  }],
+  'nextPageToken': 'CDIQAA',
+  'kind': 'youtube#searchListResponse',
+  'etag': '"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/wasU1p1g8qv0W_SRoo2wTf3RRxk"',
+  'pageInfo': {
+    'totalResults': 315,
+    'resultsPerPage': 50
+  }
+}
