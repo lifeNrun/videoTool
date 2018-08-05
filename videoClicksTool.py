@@ -57,7 +57,7 @@ def read(path):
 
 def getUserAgentArray():
   global userAgentArray
-  userAgentArray = read('./data/userAgent.txt')
+  userAgentArray = read('./data/EssenceUserAgent.txt')
 
 def getRandomUserAgent():
   global userAgentArray
