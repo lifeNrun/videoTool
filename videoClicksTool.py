@@ -103,7 +103,7 @@ def clickVideosLoop(num, videoUrl, intSleepTime):
       print(error)
     else:
       # 睡眠10s
-      timeInt = random.randint(25, 30)
+      timeInt = random.randint(110, 120)
       time.sleep(timeInt)
       i = i + 1
 
