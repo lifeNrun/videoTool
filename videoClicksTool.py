@@ -5,9 +5,71 @@ from pyvirtualdisplay import Display
 import sys
 import random
 import threading
-
+import json
 userAgentArray = []
 proxyIps = []
+userAgentGlobal = {}
+userAgentGlobal['userAgents'] = []
+userAgentGlobal['usedIndexs'] = []
+
+def readInfo(fileName):
+    try:
+        document = open(fileName, 'r', encoding='utf-8')
+    except IOError:
+        print('open %s error'% fileName)
+        return {}
+    else:
+        data = document.read()
+        document.close()
+        if(data == ""):
+            return {}
+        else:
+            return json.loads(data)
+
+def getNewUserAgent():
+  global userAgentGlobal
+  userAgents = readInfo('./data/userAgentNew.json')
+  userAgentGlobal['userAgents'] = userAgents
+
+def getRandomUserAgentNew():
+  global userAgentGlobal
+  index = 0
+  length = len(userAgentGlobal['userAgents'])
+  mobile_emulation = {}
+  while(index < length):
+    index = random.randint(0, length-1)
+    if(index not in userAgentGlobal['usedIndexs']):
+      item = userAgentGlobal['userAgents'][index]
+      mobile_emulation['deviceMetrics'] = item['deviceMetrics']
+      mobile_emulation['userAgent'] = item['userAgent']
+      userAgentGlobal['usedIndexs'].append(index)
+      return mobile_emulation
+
+def mobileEmulationBrowseNoDisPlay(chrome_options, intSleepTime, url):
+  mobile_emulation = getRandomUserAgentNew()
+  width = mobile_emulation['deviceMetrics']['width']
+  height = mobile_emulation['deviceMetrics']['height']
+  display = Display(visible=0, size=(width, height))
+  display.start()
+  chrome_options.add_argument('--no-sandbox')
+  chrome_options.add_experimental_option("mobileEmulation", mobile_emulation)
+  driver = webdriver.Chrome(chrome_options=chrome_options)
+  driver.set_window_size(width, height)
+  driver.get(url)
+  try:
+    youtubeVideo = driver.find_element_by_css_selector('ytm-compact-video-renderer.item:first-child')
+  except Exception as error:
+    print(error)
+    driver.get(url)
+    # 对特别版本的android
+    youtubeVideo = driver.find_element_by_css_selector("div.cib[data-index='0']>div>div>a")
+
+  ActionChains(driver).click(youtubeVideo).perform()
+  timeInt = random.randint(intSleepTime - 5, intSleepTime)
+  time.sleep(timeInt)
+  display.stop()
+  driver.quit()
+
 def searchAndClickVideo(chromeOptions, intSleepTime, url):
   display = Display(visible=0, size=(800, 600))
   display.start()
@@ -91,7 +153,7 @@ def getRandomUserAgent():
   global userAgentArray
   return random.choice(userAgentArray)
 
-def clickVideosLoop(num, videoUrl, intSleepTime):
+def clickVideosLoopThread(num, videoUrl, intSleepTime):
   getUserAgentArray()
   i = 0
   # print(num)
@@ -104,6 +166,22 @@ def clickVideosLoop(num, videoUrl, intSleepTime):
     else:
       # 睡眠10s
       timeInt = random.randint(110, 120)
+      time.sleep(timeInt)
+      i = i + 1
+def clickVideosLoop(num, videoUrl, intSleepTime):
+  # getUserAgentArray()
+  getNewUserAgent()
+  i = 0
+  chromeOptions = webdriver.ChromeOptions()
+  chromeOptions.binary_location='/usr/bin/chromium-browser'
+  while(i < num):
+    try:
+      mobileEmulationBrowseNoDisPlay(chromeOptions, intSleepTime, videoUrl)
+    except Exception as error:
+      print(error)
+    else:
+      # 睡眠10s
+      timeInt = random.randint(15, 20)
       time.sleep(timeInt)
       i = i + 1
 
