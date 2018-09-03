@@ -65,8 +65,8 @@ def mobileEmulationBrowseNoDisPlay(chrome_options, intSleepTime, url):
     youtubeVideo = driver.find_element_by_css_selector("div.cib[data-index='0']>div>div>a")
 
   ActionChains(driver).click(youtubeVideo).perform()
-  timeInt = random.randint(intSleepTime - 5, intSleepTime)
-  time.sleep(timeInt)
+  # timeInt = random.randint(intSleepTime - 5, intSleepTime)
+  time.sleep(intSleepTime)
   display.stop()
   driver.quit()
 
@@ -116,8 +116,8 @@ def runPyvirtualdisplayBrowser(chromeOptions, intSleepTime, videoUrl):
   youtubeVideo = browser.find_element_by_id("player")
   #对定位到的元素执行鼠标右键操作
   ActionChains(browser).click(youtubeVideo).perform()
-  timeInt = random.randint(intSleepTime - 5, intSleepTime)
-  time.sleep(timeInt)
+  # timeInt = random.randint(intSleepTime - 5, intSleepTime)
+  time.sleep(intSleepTime)
   display.stop()
   # 退出，清除浏览器缓存
   browser.quit()
